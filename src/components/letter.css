@@ -1,4 +1,6 @@
-.letter{
+.letter {
   display: grid;
   grid-template-columns: repeat(9, min-content);
 }
+
+/*# sourceMappingURL=letter.css.map */

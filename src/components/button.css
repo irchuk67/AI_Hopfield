@@ -1,7 +1,9 @@
-.button{
+.button {
   border: none;
-  border-radius: .5rem;
+  border-radius: 0.5rem;
   padding: 1rem;
   background-color: lightskyblue;
   margin: 1rem 0;
 }
+
+/*# sourceMappingURL=button.css.map */
